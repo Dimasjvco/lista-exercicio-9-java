@@ -17,7 +17,7 @@ Exercícios:<br>
 3. Faça um programa que pergunte o nome, a idade e o CPF de uma pessoa. Após isso, o programa mostrará um menu com 03 destinos:
 - São Paulo
 - Nova York
-- Berlim
+- Berlim<br>
 A passagem para São Paulo é $ 250, para Nova York é $ 2400 e para Berlim é $ 3800.<br>
 O usuário escolherá o destino que quer conhecer e o seu programa deverá imprimir um recibo com os dados pessoais, o destino escolhido, o valor a ser pago e o número da poltrona gerado de forma aleatória num intervalo entre 01 e 20. Gere um arquivo recibo_viagem.txt com todos esses dados.
 
