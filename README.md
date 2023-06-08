@@ -1,9 +1,9 @@
-# lista-exercicio-9-java
 By: Felipe Claver Diniz [VS Code]<br>
+
 Centro Universitário UNA<br>
 Programação de Soluções Computacionais<br>
 Professor Daniel Henrique Matos de Paiva<br>
-#Lista de Exercícios IX: Manipulando Arquivos
+# Lista de Exercícios IX: Manipulando Arquivos
 Considerações Iniciais:<br>
 Esta lista de exercício deve:<br>
 - Ser realizada em equipes de até 07 alunos.
